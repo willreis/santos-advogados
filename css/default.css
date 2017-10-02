@@ -1,0 +1,46 @@
+/*FOOTER*/
+.title-footer{
+	text-align: justify;
+}
+
+/*HOME*/
+h2.slide-title.active {
+    text-transform: unset;
+}
+.fale-conosco p{
+	font-size: 20px;
+	padding-bottom: 20px;
+}
+
+/*CONTATO*/
+.contact-box p.endereco{
+	font-size: 16px;
+    
+}
+.contact-box h3 {
+    color: #ffa800;
+}
+.contact-box a{
+	color: #000;
+}
+
+/*LOADING*/
+.loader-name img {
+    max-width: 500px;
+}
+.loading-wrapper {
+    width: 500px;
+    position: fixed;
+    top: 50%;
+    margin-top: -200px;
+    left: 50%;
+    margin-left: -255px;
+    opacity: 1;
+    -webkit-transition: all 0.6s ease-in-out;
+    -moz-transition: all 0.6s ease-in-out;
+    transition: all 0.6s ease-in-out;
+    z-index: 9;
+    transform: translateY(0px);
+    -moz-transform: translateY(0px);
+    -webkit-transform: translateY(0px);
+}
