@@ -53,7 +53,7 @@ error_reporting(E_ALL);
         $Email->setMessage($mensagemHTML);    
         $Email->setName('Contato Santos Advogados');
         $Email->setSubject('Santos Advogados');
-        $Email->setFrom('santosadvogados.juridico@gmail.com');
+        $Email->setFrom('william.reis.silva@gmail.com');
         $Email->setTo('santosadvogados.juridico@gmail.com'); 
         $Email->setCc('william.reis.silva@gmail.com');
         $Email->setReply($email); 
