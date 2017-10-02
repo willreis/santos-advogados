@@ -35,7 +35,7 @@
             <!-- Slide -->
             <div class="featured-slide slide bg-cover viewport" style="background-image: url('img/banner/colsultoria.jpg');">
                 <div class="slide-inner">
-                    <h2 class="slide-title">Consultoria Trabalhista<br> e PREVIDENCIÁRIO</h2>
+                    <h2 class="slide-title">Consultoria Trabalhista<br> e PREVIDENCIÁRIA</h2>
                 </div>
             </div>
             <!-- Slide -->
